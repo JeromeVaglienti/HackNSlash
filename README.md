@@ -19,6 +19,6 @@ https://swiik.artstation.com/
 
 ![Pictures](https://raw.githubusercontent.com/JeromeVaglienti/HackNSlash/master/PreviewPictures/1.png)
 
-![Pictures](https://raw.githubusercontent.com/JeromeVaglienti/HackNSlash/master/PreviewPictures/1.png)
+![Pictures](https://raw.githubusercontent.com/JeromeVaglienti/HackNSlash/master/PreviewPictures/2.png)
 
 ![Pictures](https://raw.githubusercontent.com/JeromeVaglienti/HackNSlash/master/PreviewPictures/3.png)
